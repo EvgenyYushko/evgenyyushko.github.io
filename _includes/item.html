@@ -1,0 +1,16 @@
+<article class="row cl-i-preview">
+	<div class="twelve columns">
+		<h3><a class="cl-i-preview-tlink" href="{{ include.item.url }}">{{ include.item.title }}</a></h3>
+		{% if include.item.image %}
+		<img
+      class="cl-i-preview-img"
+      src="/assets/img/{{ include.item.image }}"
+      alt="{{ include.item.image_alt }}"
+    />
+		{% endif %}
+		<section>
+			{{ include.item.excerpt }}
+		</section>
+	</div>
+</article>
+

@@ -1,0 +1,5 @@
+{% if page.url == include.href %}
+	<a class="nav_item nav_item-active" href="{{ include.href }}">{{ include.title }}</a>
+{% else %}
+	<a class="nav_item" href="{{ include.href }}">{{ include.title }}</a>
+{% endif %}

@@ -1,0 +1,53 @@
+// Extra small devices (portrait phones, less than 576px)
+// No media query since this is the default in Bootstrap
+
+.nav {
+	display: flex;
+	flex-direction: column;
+  margin-bottom: 3em;
+}
+
+.nav_item {
+	text-decoration: none;
+	margin: .2em 0;
+	
+	&-active {
+		text-decoration: underline;
+	}
+}
+
+@media (min-width: 480px) {
+	.nav {
+		flex-direction: row;
+		justify-content: flex-end;
+	}
+	
+	.nav_item {
+		margin: 0 1.1em 0 0;
+	}
+	
+	.nav_item:last-child {
+		margin-right: 0;
+	}
+	
+	.nav_item:first-child {
+		margin-left: 0;
+	}
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+  .nav {
+    margin-top: 30px;
+    margin-bottom: 100px;
+  }
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {}
