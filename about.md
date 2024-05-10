@@ -34,4 +34,4 @@ permalink: /about/
 
 [![codewars](https://www.codewars.com/users/EvgenyYushko/badges/large)](https://www.codewars.com/users/username)  
 
-![](https://komarev.com/ghpvc/?username=EvgenyYushko&color=green)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vEvgenyYushko)](https://git.io/streak-stats)
