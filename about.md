@@ -29,6 +29,7 @@ permalink: /about/
 - Создание web-приложений, исполняемых на стороне сервера при помощи языка программирования PHP и технологии AJAX
 - Управление программными проектами (agile, scrum, kanban)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgenyYushko&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgenyyushko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -48,11 +49,7 @@ permalink: /about/
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EvgenyYushko&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-name: Project from a repository
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.projects.svg
-  token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+
   base: ""
   plugin_projects: yes
   plugin_projects_repositories: lowlighter/metrics/projects/1
