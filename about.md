@@ -43,3 +43,5 @@ permalink: /about/
 [![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvgenyYushko&theme=radical&hide_border=true)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EvgenyYushko&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EvgenyYushko&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
