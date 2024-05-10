@@ -48,3 +48,12 @@ permalink: /about/
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EvgenyYushko&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+name: Project from a repository
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.projects.svg
+  token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+  base: ""
+  plugin_projects: yes
+  plugin_projects_repositories: lowlighter/metrics/projects/1
+  plugin_projects_descriptions: yes
