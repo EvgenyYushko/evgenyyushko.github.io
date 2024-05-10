@@ -37,3 +37,5 @@ permalink: /about/
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EvgenyYushko)](https://git.io/streak-stats)
 
 [![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user=EvgenyYushko)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenyYushko)](https://github.com/MrKrishnaAgarwal/readme-components-github)
