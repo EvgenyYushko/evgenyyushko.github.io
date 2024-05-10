@@ -39,3 +39,6 @@ permalink: /about/
 [![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user=EvgenyYushko)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenyYushko)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+
+[![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvgenyYushko&theme=radical&hide_border=true)
+
