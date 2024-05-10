@@ -34,4 +34,4 @@ permalink: /about/
 
 [![codewars](https://www.codewars.com/users/EvgenyYushko/badges/large)](https://www.codewars.com/users/username)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vEvgenyYushko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EvgenyYushko)](https://git.io/streak-stats)
