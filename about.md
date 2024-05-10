@@ -29,5 +29,7 @@ permalink: /about/
 - Создание web-приложений, исполняемых на стороне сервера при помощи языка программирования PHP и технологии AJAX
 - Управление программными проектами (agile, scrum, kanban)
 
-markdown
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgenyyushko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/EvgenyYushko/badges/small)](https://www.codewars.com/users/username)  
